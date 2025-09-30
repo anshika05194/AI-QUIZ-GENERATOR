@@ -69,4 +69,4 @@ MIT
 
 ---
 
-**Made with ❤️ by AI Quiz Generator Team**
+**Made with ❤️ by Anshika**
